@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/saksham-nagar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Location-India-10B981?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=Saksham-27-SN&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -84,12 +84,7 @@ I am a **Software Engineering & Data Science** student passionate about building
 
 ---
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-27-SN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-27-SN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
+### 📈 GitHub Streak Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-27-SN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
